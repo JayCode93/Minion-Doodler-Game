@@ -9,10 +9,10 @@
 }
 
 .doodler {
-    width: 60px;
+    width: 87px;
     height: 85px;
     position: absolute;
-    background-image: url('./minion.png');
+    background-image: url('./doodler-guy.png');
 }
 
 .platform {
